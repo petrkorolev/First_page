@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background-color: #f9f9f9;
+    color: #333333;
+  
+    width: 600px;
+    margin: 0 auto;
+    padding-left: 50px;
+   2
+  }
+  
+  h1 {
+    text-align: left;
+    font-size: 36px;
+    margin-bottom: 0;
+  }
+  
+  main > h2 {
+    text-align: left;
+    font-size: 25px;
+  }
